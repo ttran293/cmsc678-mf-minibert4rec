@@ -1,0 +1,16 @@
+{
+  "exp_id": "20250517_205410",
+  "args": {
+    "model": "bert",
+    "epochs": 20,
+    "user": null,
+    "skip_train": false,
+    "device": "cpu",
+    "advanced_masking": false,
+    "mf_epochs": 30,
+    "mf_batch_size": 2048,
+    "mf_lr": 0.0005,
+    "freeze_ratio": 0.1,
+    "data_dir": "ml-latest-small"
+  }
+}

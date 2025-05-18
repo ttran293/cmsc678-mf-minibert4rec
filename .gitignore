@@ -38,24 +38,7 @@ ENV/
 .ipynb_checkpoints
 *.ipynb
 
-# Model checkpoints and logs
-model/
-*.pt
-*.pth
-*.ckpt
-*.log
-*.csv
-*.json
 
-# Data files
-*.csv
-*.dat
-*.pkl
-*.h5
-*.npy
-*.npz
-ml-latest-small/
-ml-latest/
 
 # Logs and databases
 *.log
